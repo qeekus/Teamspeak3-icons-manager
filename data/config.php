@@ -1,0 +1,20 @@
+<?php
+$SCRIPT_VER = "V1";
+
+$HOST_QUERY = "131.221.33.40"; 
+$PORT_QUERY = "10011";
+$USER_QUERY = "USERQUERY";
+$PASS_QUERY = "CLAVEQUERY";
+$SERVER_PORT = "9977";
+
+$NAME_TITLE = 'Manager TS3';
+
+$IDIOMA = "EN";
+
+$SID_GROUP = array(71,71); 
+
+$NICK_QUERY = "AdminSystem";
+
+$MAX_ICONS = 8;
+
+$DEBUG = True;
